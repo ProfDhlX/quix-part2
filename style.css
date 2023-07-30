@@ -43,6 +43,17 @@ h1 {
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
+    margin-left: 20px;
+}
+
+#reset-btn {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
 
 #submit-btn:hover {

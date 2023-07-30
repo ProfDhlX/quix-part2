@@ -1,0 +1,99 @@
+
+[
+    {
+      "question": "What is the capital city of Nepal?",
+      "options": ["Kathmandu", "Pokhara", "Biratnagar", "Lalitpur"],
+      "answer": "Kathmandu"
+    },
+    {
+      "question": "Which mountain is the highest peak in Nepal?",
+      "options": ["Mount Kanchenjunga", "Mount Makalu", "Mount Everest", "Mount Lhotse"],
+      "answer": "Mount Everest"
+    },
+
+        {
+        "question": "What is the currency of Nepal?",
+        "options": ["Nepalese Rupee", "Indian Rupee", "Taka", "Dollar"],
+        "answer": "Nepalese Rupee"
+    },
+
+        {
+        "question": "What is the official language of Nepal?",
+        "options": ["Nepali", "Hindi", "English", "Maithili"],
+        "answer": "Nepali"
+    },
+
+    {
+        "question": "Which festival is known as the 'Festival of Lights' in Nepal?",
+        "options": ["Dashain", "Tihar", "Holi"],
+        "answer": "Tihar"
+      },
+
+      {
+        "question": "Which UNESCO World Heritage site in Nepal is famous for its ancient architecture?",
+        "options": ["Pashupatinath Temple", "Swayambhunath Stupa", "Bhaktapur Durbar Square"],
+        "answer": "Bhaktapur Durbar Square"
+      },
+
+      {
+        "question": "Which wildlife reserve in Nepal is famous for its population of Bengal tigers?",
+        "options": ["Bardia National Park", "Chitwan National Park", "Sagarmatha National Park"],
+        "answer": "Chitwan National Park"
+      },
+
+      {
+        "question": "Which river is the longest in Nepal?",
+        "options": ["Koshi River", "Gandaki River", "Karnali River"],
+        "answer": "Gandaki River"
+      },
+
+      {
+        "question": "Who was the first King of unified Nepal?",
+        "options": ["Prithvi Narayan Shah", "Birendra Bir Bikram Shah", "Gyanendra Bir Bikram Shah"],
+        "answer": "Prithvi Narayan Shah"
+      },
+
+      {
+        "question": "In which year did the unification of Nepal take place?",
+        "options": ["1756", "1768", "1802"],
+        "answer": "1768"
+      },
+
+      {
+        "question": "Which treaty established the Sugauli Treaty, resulting in Nepal losing some territories to the British?",
+        "options": ["Treaty of Versailles", "Treaty of Sugauli", "Treaty of Tordesillas"],
+        "answer": "Treaty of Sugauli"
+      },
+
+      {
+        "question": "Who was the first woman to climb Mount Everest from the Nepali side?",
+        "options": ["Pasang Lhamu Sherpa", "Junko Tabei", "Tenzing Norgay"],
+        "answer": "Pasang Lhamu Sherpa"
+      },
+
+      {
+        "question": "Which king of Nepal was responsible for ending the Rana regime and introducing a democratic system?",
+        "options": ["King Gyanendra", "King Birendra", "King Mahendra"],
+        "answer": "King Birendra"
+      },
+
+      {
+        "question": "What was the popular movement in 2006 that led to the establishment of a democratic republic in Nepal?",
+        "options": ["Nepalese Revolution", "People's Movement II", "Maoist Insurgency"],
+        "answer": "People's Movement II"
+      },
+
+      {
+        "question": "Which dynasty was established after the fall of the Rana regime in Nepal?",
+        "options": ["Shah Dynasty", "Thapa Dynasty", "Rana Dynasty"],
+        "answer": "Shah Dynasty"
+      },
+
+      {
+        "question": "What is the traditional Nepali dish made of rice, lentils, vegetables, and meat (optional)?",
+        "options": ["Momo", "Dal Bhat", "Thukpa"],
+        "answer": "Dal Bhat"
+      }
+
+     ]
+  
