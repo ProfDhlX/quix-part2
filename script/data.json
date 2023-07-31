@@ -93,7 +93,314 @@
         "question": "What is the traditional Nepali dish made of rice, lentils, vegetables, and meat (optional)?",
         "options": ["Momo", "Dal Bhat", "Thukpa"],
         "answer": "Dal Bhat"
-      }
+      },
+    {
+question: "What is the traditional Russian dance known for its lively movements and high kicks?",
+options: [
+"Cossack Dance",
+"Samba",
+"Flamenco",
+"Kathak"
+],
+answer: "Cossack Dance"
+},
+
+{
+question: "Which famous scientist is known for his theory of general relativity?",
+options: [
+"Isaac Newton",
+"Albert Einstein",
+"Stephen Hawking",
+"Marie Curie"
+],
+answer: "Albert Einstein"
+},
+
+{
+question: "What is the capital city of South Korea?",
+options: [
+"Beijing",
+"Tokyo",
+"Seoul",
+"Bangkok"
+],
+answer: "Seoul"
+},
+
+{
+question: "Which planet in our solar system is known as the 'Red Planet'?",
+options: [
+"Mars",
+"Venus",
+"Jupiter",
+"Saturn"
+],
+answer: "Mars"
+},
+
+{
+question: "Who is the author of the famous novel 'To Kill a Mockingbird'?",
+options: [
+"Harper Lee",
+"George Orwell",
+"F. Scott Fitzgerald",
+"Jane Austen"
+],
+answer: "Harper Lee"
+},
+
+{
+question: "Which famous painting is known for depicting a woman with a mysterious smile?",
+options: [
+"The Starry Night",
+"Mona Lisa",
+"The Last Supper",
+"The Scream"
+],
+answer: "Mona Lisa"
+},
+
+{
+question: "What is the largest mammal on Earth?",
+options: [
+"African Elephant",
+"Blue Whale",
+"Giraffe",
+"Hippopotamus"
+],
+answer: "Blue Whale"
+},
+
+{
+question: "Which famous scientist developed the three laws of motion?",
+options: [
+"Nikola Tesla",
+"Galileo Galilei",
+"Isaac Newton",
+"Marie Curie"
+],
+answer: "Isaac Newton"
+},
+
+{
+question: "What is the currency of Japan?",
+options: [
+"Yen",
+"Euro",
+"Dollar",
+"Rupee"
+],
+answer: "Yen"
+},
+
+{
+question: "In which country would you find the ancient city of Machu Picchu?",
+options: [
+"Greece",
+"Peru",
+"Egypt",
+"India"
+],
+answer: "Peru"
+},
+
+{
+question: "What is the largest organ in the human body?",
+options: [
+"Brain",
+"Heart",
+"Skin",
+"Liver"
+],
+answer: "Skin"
+},
+
+{
+question: "Which famous scientist is known for his theory of evolution by natural selection?",
+options: [
+"Charles Darwin",
+"Albert Einstein",
+"Isaac Newton",
+"Marie Curie"
+],
+answer: "Charles Darwin"
+},
+
+{
+question: "What is the traditional martial art from Thailand that uses stand-up striking techniques?",
+options: [
+"Judo",
+"Karate",
+"Muay Thai",
+"Taekwondo"
+],
+answer: "Muay Thai"
+},
+
+{
+question: "Which river is the longest in the world?",
+options: [
+"Nile River",
+"Amazon River",
+"Mississippi River",
+"Yangtze River"
+],
+answer: "Nile River"
+},
+
+{
+question: "Who wrote the famous play 'Romeo and Juliet'?",
+options: [
+"William Shakespeare",
+"Leo Tolstoy",
+"Jane Austen",
+"George Orwell"
+],
+answer: "William Shakespeare"
+},
+
+{
+question: "What is the largest ocean on Earth?",
+options: [
+"Atlantic Ocean",
+"Indian Ocean",
+"Arctic Ocean",
+"Pacific Ocean"
+],
+answer: "Pacific Ocean"
+},
+
+{
+question: "In which country is the Taj Mahal located?",
+options: [
+"India",
+"China",
+"Egypt",
+"Turkey"
+],
+answer: "India"
+},
+
+{
+question: "What is the main language spoken in Brazil?",
+options: [
+"Spanish",
+"Portuguese",
+"English",
+"French"
+],
+answer: "Portuguese"
+},
+
+{
+question: "Which gas makes up the majority of Earth's atmosphere?",
+options: [
+"Oxygen",
+"Nitrogen",
+"Carbon Dioxide",
+"Hydrogen"
+],
+answer: "Nitrogen"
+},
+
+{
+question: "Who is the famous artist behind the 'The Persistence of Memory' painting?",
+options: [
+"Vincent van Gogh",
+"Leonardo da Vinci",
+"Salvador Dali",
+"Pablo Picasso"
+],
+answer: "Salvador Dali"
+},
+
+{
+question: "What is the highest mountain in Africa?",
+options: [
+"Mount Kilimanjaro",
+"Mount Everest",
+"Mount McKinley",
+"Mount Fuji"
+],
+answer: "Mount Kilimanjaro"
+},
+
+{
+question: "Which famous scientist is known for the theory of special relativity?",
+options: [
+"Isaac Newton",
+"Albert Einstein",
+"Stephen Hawking",
+"Marie Curie"
+],
+answer: "Albert Einstein"
+},
+
+{
+question: "What is the capital city of Australia?",
+options: [
+"Canberra",
+"Sydney",
+"Melbourne",
+"Brisbane"
+],
+answer: "Canberra"
+},
+
+{
+question: "What is the process by which plants convert sunlight into energy?",
+options: [
+"Photosynthesis",
+"Respiration",
+"Fermentation",
+"Transpiration"
+],
+answer: "Photosynthesis"
+},
+
+{
+question: "Who wrote the famous novel 'Pride and Prejudice'?",
+options: [
+"Charlotte Bronte",
+"Jane Austen",
+"Leo Tolstoy",
+"George Orwell"
+],
+answer: "Jane Austen"
+},
+
+{
+question: "What is the largest desert in the world?",
+options: [
+"Gobi Desert",
+"Sahara Desert",
+"Atacama Desert",
+"Kalahari Desert"
+],
+answer: "Sahara Desert"
+},
+
+{
+question: "What is the smallest planet in our solar system?",
+options: [
+"Venus",
+"Mars",
+"Mercury",
+"Jupiter"
+],
+answer: "Mercury"
+},
+
+{
+question: "Which famous scientist is known for the theory of quantum mechanics?",
+options: [
+"Niels Bohr",
+"Isaac Newton",
+"Albert Einstein",
+"Marie Curie"
+],
+answer: "Niels Bohr"
+}
 
      ]
   
